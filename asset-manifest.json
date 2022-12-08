@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Proyectoi2css/static/css/main.21596d64.css",
+    "main.js": "/Proyectoi2css/static/js/main.1c5fd05b.js",
+    "static/media/cerebro.png": "/Proyectoi2css/static/media/cerebro.45ca7e76552242f3d3f1.png",
+    "static/media/Fuente-Menlo.ttf": "/Proyectoi2css/static/media/Fuente-Menlo.92e41f43900c256f2286.ttf",
+    "static/media/Fuente-Cocogoose.ttf": "/Proyectoi2css/static/media/Fuente-Cocogoose.fc4c5187ea318bde306b.ttf",
+    "static/media/Menu-lgotipo-marca.png": "/Proyectoi2css/static/media/Menu-lgotipo-marca.8b10050486d34b3dbfad.png",
+    "static/media/Eslash-felcha-amatillo.png": "/Proyectoi2css/static/media/Eslash-felcha-amatillo.70f6cb2b12d4b792c228.png",
+    "static/media/nuemeral-azul-claro.png": "/Proyectoi2css/static/media/nuemeral-azul-claro.ee065bc9623447a9373a.png",
+    "index.html": "/Proyectoi2css/index.html",
+    "main.21596d64.css.map": "/Proyectoi2css/static/css/main.21596d64.css.map",
+    "main.1c5fd05b.js.map": "/Proyectoi2css/static/js/main.1c5fd05b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21596d64.css",
+    "static/js/main.1c5fd05b.js"
+  ]
+}
