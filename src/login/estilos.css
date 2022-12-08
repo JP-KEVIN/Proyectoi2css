@@ -1,0 +1,126 @@
+*{
+    color: white;
+    box-sizing: border-box;
+    margin: 0;
+}
+body{
+    /* margin: none;
+    padding: none; */
+    /* background: url(../recursos/Captura\ de\ pantalla\ \(46\).png); */
+    /* background-repeat: no-repeat; */
+    top: center;
+    height: 100vh;
+    width: 100vw;
+    
+}
+
+    
+
+.logo-login{
+    width: 320px;
+    height: 420px;
+    background:linear-gradient(#0dccac, #1655b2) ;
+    color: white;
+    left: 35%;
+    position: absolute;
+    transform: translate(50%, 50%);
+    box-sizing: border-box;
+    padding: 70px 30px;
+    border-radius: 30px;
+}
+.logo-login .imagen{
+    width: 210px;
+    height: 50px;
+    position: absolute;
+    top: 7px;
+}
+.logo-login label{
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+    display: block;
+}
+.logo-login h1{
+    margin: 0;
+    padding: 0 0 20px;
+    text-align: center;
+    font-size: 22px;
+}
+.logo-login input{
+    width: 100%;
+    margin-bottom: 20px;
+    border: none;
+    border-bottom: 1px solid #0dccac;
+    outline: none;
+    height: 40px;
+    font-size: 13px;
+    border-radius: 20px;
+}
+.logo-login .boton-inicio{
+    border: none;
+    outline: none;
+   background: #ffcb05;
+   color: white;
+   font-size: 18px;
+}
+a{
+    text-decoration: none;
+    font-size: 12px;
+    color: black;
+}
+
+.section-login{
+    width: 100%;
+    height: 100vh;
+    background-color: #272727;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-login{
+    width: 746px;
+height: 413px;
+border-radius: 24px;
+background: rgba(255, 255, 255, 0.2);
+backdrop-filter: blur(50px);
+display: flex;
+}
+
+.container-login .image{
+    width: 373px;
+height: 413px;
+background: linear-gradient(180deg, #00CFB0 0%, #0057B2 100%);
+border-radius: 24px;
+}
+
+.submit{
+    width: 373px;
+height: 413px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+}
+
+.text{
+font-weight: 400;
+font-size: 50px;
+line-height: 30px;
+}
+
+.user{
+    height: 44px;
+width: 250px;
+border-radius: 2px;
+    text-align: inherit;
+    background: rgba(50, 50, 54, 0.01);
+    /* box-shadow: inset 5px -5px 20px rgba(76, 76, 79, 0.4), inset -5px 5px 20px rgba(0, 0, 0, 0.5); */
+border-style: none;
+color: rgba(255, 255, 255, 0.4);
+}
+
+input[type=text]{
+    padding-left: 10px;
+}
